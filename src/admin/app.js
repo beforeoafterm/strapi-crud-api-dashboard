@@ -31,7 +31,13 @@ export default {
         'admin.pages.MarketPlacePage.subtitle': 'Get more out of your Dashboard',
         'app.components.LeftMenu.navbrand.title': 'CRUD API Manager',
         'app.components.LeftMenu.navbrand.workplace': 'Dashboard',
+        'app.components.HomePage.welcomeBlock.content.again': '',
+        'app.components.MarketplaceBanner': '',
         'notification.version.update.message': 'A new version of the CRUD API Dashboard is available!',
+        'HomePage.welcome.congrats.content.bold': '',
+        'app.components.UpgradePlanModal.text-power': '',
+        'app.components.UpgradePlanModal.text-strapi': '',
+        'components.AutoReloadBlocker.description': '',
       }
     },
     notifications: { release: false },
